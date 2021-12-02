@@ -15,4 +15,4 @@ stock_picker(stock_prices) # => "Buy on Day 1 for $3 and sell on Day 4 for $15. 
 
 ## What I Learned / Goals of Project
 
-The purpose of this mini-project was to practice using basic Ruby syntax. It was also good practice at refactoring my code -- my first attempt was very messy and convoluted. The current iteration is much cleaner and readable.
+The purpose of this mini-project was to practice using basic Ruby syntax. It was also good practice at refactoring my code -- my first attempt was very messy and convoluted. The current iteration is much cleaner and more readable.
