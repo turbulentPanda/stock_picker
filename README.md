@@ -8,8 +8,8 @@ The buying day must be before the selling day.
 ## Example
 
 ```
-array = [17,3,6,9,15,8,6,1,10]
-stock_picker(array) # => "Buy on Day 1 for $3 and sell on Day 4 for $15. Profit is $12."
+stock_prices = [17,3,6,9,15,8,6,1,10]
+stock_picker(stock_prices) # => "Buy on Day 1 for $3 and sell on Day 4 for $15. Profit is $12."
 
 ```
 
